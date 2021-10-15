@@ -1,17 +1,15 @@
 {
-  "name": "task2-1-defender-game",
+  "name": "task2-2-defender-game",
   "version": "1.0.0",
-  "description": "task2",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "serve": "http-server src",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production",
-    "start": "webpack --watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Svetlana-Kutyeva1974/task2-1-defender-game.git"
+    "url": "git+https://github.com/Svetlana-Kutyeva1974/task2-2-defender-game.git"
   },
   "keywords": [
     "game"
@@ -19,9 +17,9 @@
   "author": "Svetlana_K",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Svetlana-Kutyeva1974/task2-1-defender-game/issues"
+    "url": "https://github.com/Svetlana-Kutyeva1974/task2-2-defender-game/issues"
   },
-  "homepage": "https://github.com/Svetlana-Kutyeva1974/task2-1-defender-game#readme",
+  "homepage": "https://github.com/Svetlana-Kutyeva1974/task2-2-defender-game#readme",
   "devDependencies": {
     "@babel/cli": "^7.15.7",
     "@babel/core": "^7.15.8",
@@ -29,8 +27,7 @@
     "babel-loader": "^8.2.2",
     "css-loader": "^6.4.0",
     "html-loader": "^2.1.2",
-    "html-webpack-plugin": "^5.3.2",
-    "http-server": "^13.0.2",
+    "html-webpack-plugin": "^5.4.0",
     "mini-css-extract-plugin": "^2.4.2",
     "webpack": "^5.58.2",
     "webpack-cli": "^4.9.0"
